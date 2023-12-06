@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Web.Http;
-using VP_E_Commerce_Api.Services;
-using VP_E_Commerce_Api.dto;
+using VictorianPlumming.ECommerce.Api.Services;
+using VictorianPlumming.ECommerce.Api.dto;
 
-namespace VP_E_Commerce_Api.Controllers
+namespace VictorianPlumming.ECommerce.Api
 {
     [ApiController]
     [System.Web.Http.Route("[controller]")]

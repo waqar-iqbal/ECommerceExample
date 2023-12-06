@@ -1,4 +1,4 @@
-﻿namespace VP_E_Commerce_Api.dto
+﻿namespace VictorianPlumming.ECommerce.Api.dto
 {
     public class OrderItem
     {

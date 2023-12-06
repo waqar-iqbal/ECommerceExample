@@ -1,8 +1,8 @@
 ﻿using VictorianPlumming.ECommerce.Data;
 using VictorianPlumming.ECommerce.Domain;
-using VP_E_Commerce_Api.dto;
+using VictorianPlumming.ECommerce.Api.dto;
 
-namespace VP_E_Commerce_Api.Services
+namespace VictorianPlumming.ECommerce.Api.Services
 {
     public class OrderSaveService : IOrderSaveService
     {
